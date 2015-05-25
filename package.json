@@ -1,0 +1,18 @@
+{
+  "name": "aliexpress",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "cheerio": "~0.18.0",
+    "request": "~2.48.0",
+    "url": "~0.10.1",
+    "underscore": "~1.7.0",
+    "async": "~0.9.0"
+  }
+}
